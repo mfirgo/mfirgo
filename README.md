@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a Computer Science student at University of Wrocław.  
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfirgohide=TeX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 <!--
 **mfirgo/mfirgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
